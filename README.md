@@ -2,13 +2,15 @@
 
 ## Instructions
 
-Design the following database schema containing three tables:
+Design a database schema containing three tables: departments, roles, employees.
 
-```
+## User Story
+
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
 ```
+
 
 ## Minimum Requirements
 
@@ -25,6 +27,7 @@ So that I can organize and plan my business
   * Update employee roles
 
 ## Built With
+
   - Node
 
   - Express Server
@@ -37,17 +40,10 @@ So that I can organize and plan my business
 
 ## gif Demo
 
+https://github.com/kerishma/Employee-Tracker/blob/master/Untitled_%20Aug%2027%2C%202020%201_45%20PM.gif
 
-Owner
+## Owner
+
 Kerishma
 
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL of the GitHub repository
-
-* A video demonstrating the entirety of the app's functionality 
 

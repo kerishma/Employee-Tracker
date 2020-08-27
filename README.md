@@ -24,6 +24,23 @@ So that I can organize and plan my business
 
   * Update employee roles
 
+## Built With
+  - Node
+
+  - Express Server
+
+  - Express-handlebars
+
+  - connection
+
+  - Javascript / JQuery / JSON
+
+## gif Demo
+
+
+Owner
+Kerishma
+
 
 
 ## Submission on BCS
